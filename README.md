@@ -1,5 +1,5 @@
-# Project template!
-![cat](./img/trombone.jpg)
+# Trombone Champ Controlled
+![trombone](./img/trombone.jpg)
 
 *Trombone controller for the Trombone Champ game.*
 
